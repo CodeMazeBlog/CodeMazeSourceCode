@@ -101,8 +101,7 @@ namespace BookStoreWithViews.Controllers
                 Title = "Learning ASP.NET Core 2.0",
                 Genre = "Programming & Software Development",
                 Price = 45,
-                PublishDate = new System.DateTime(2017, 12, 14),
-                Authors = new List<string> { "Jason De Oliveira", "Michel Bruchet" }
+                PublishDate = new System.DateTime(2017, 12, 14)                
             };
 
             books.Add(book1);
@@ -113,8 +112,7 @@ namespace BookStoreWithViews.Controllers
                 Title = "Pro ASP.NET Core MVC",
                 Genre = "Programming & Software Development",
                 Price = 85,
-                PublishDate = new System.DateTime(2016, 09, 15),
-                Authors = new List<string> { "Jason De Oliveira", "Michel Bruchet" }
+                PublishDate = new System.DateTime(2016, 09, 15),                
             };
 
             books.Add(book2);
