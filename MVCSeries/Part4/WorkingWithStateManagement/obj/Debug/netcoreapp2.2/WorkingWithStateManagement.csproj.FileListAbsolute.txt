@@ -5,7 +5,6 @@ C:\Code\CodeMazeBlog\CodeMazeSourceCode\MVCSeries\Part4\WorkingWithStateManageme
 C:\Code\CodeMazeBlog\CodeMazeSourceCode\MVCSeries\Part4\WorkingWithStateManagement\bin\Debug\netcoreapp2.2\WorkingWithStateManagement.pdb
 C:\Code\CodeMazeBlog\CodeMazeSourceCode\MVCSeries\Part4\WorkingWithStateManagement\bin\Debug\netcoreapp2.2\WorkingWithStateManagement.Views.dll
 C:\Code\CodeMazeBlog\CodeMazeSourceCode\MVCSeries\Part4\WorkingWithStateManagement\bin\Debug\netcoreapp2.2\WorkingWithStateManagement.Views.pdb
-C:\Code\CodeMazeBlog\CodeMazeSourceCode\MVCSeries\Part4\WorkingWithStateManagement\obj\Debug\netcoreapp2.2\WorkingWithStateManagement.csprojAssemblyReference.cache
 C:\Code\CodeMazeBlog\CodeMazeSourceCode\MVCSeries\Part4\WorkingWithStateManagement\obj\Debug\netcoreapp2.2\WorkingWithStateManagement.csproj.CoreCompileInputs.cache
 C:\Code\CodeMazeBlog\CodeMazeSourceCode\MVCSeries\Part4\WorkingWithStateManagement\obj\Debug\netcoreapp2.2\WorkingWithStateManagement.RazorAssemblyInfo.cache
 C:\Code\CodeMazeBlog\CodeMazeSourceCode\MVCSeries\Part4\WorkingWithStateManagement\obj\Debug\netcoreapp2.2\WorkingWithStateManagement.RazorAssemblyInfo.cs
@@ -20,6 +19,15 @@ C:\Code\CodeMazeBlog\CodeMazeSourceCode\MVCSeries\Part4\WorkingWithStateManageme
 C:\Code\CodeMazeBlog\CodeMazeSourceCode\MVCSeries\Part4\WorkingWithStateManagement\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
 C:\Code\CodeMazeBlog\CodeMazeSourceCode\MVCSeries\Part4\WorkingWithStateManagement\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
 C:\Code\CodeMazeBlog\CodeMazeSourceCode\MVCSeries\Part4\WorkingWithStateManagement\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Code\CodeMazeBlog\CodeMazeSourceCode\MVCSeries\Part4\WorkingWithStateManagement\obj\Debug\netcoreapp2.2\Razor\Views\TempData\First.g.cshtml.cs
+C:\Code\CodeMazeBlog\CodeMazeSourceCode\MVCSeries\Part4\WorkingWithStateManagement\obj\Debug\netcoreapp2.2\Razor\Views\TempData\Second.g.cshtml.cs
+C:\Code\CodeMazeBlog\CodeMazeSourceCode\MVCSeries\Part4\WorkingWithStateManagement\obj\Debug\netcoreapp2.2\Razor\Views\TempData\Third.g.cshtml.cs
+C:\Code\CodeMazeBlog\CodeMazeSourceCode\MVCSeries\Part4\WorkingWithStateManagement\obj\Debug\netcoreapp2.2\Razor\Views\ViewBag\Index.g.cshtml.cs
+C:\Code\CodeMazeBlog\CodeMazeSourceCode\MVCSeries\Part4\WorkingWithStateManagement\obj\Debug\netcoreapp2.2\Razor\Views\ViewData\Index.g.cshtml.cs
+C:\Code\CodeMazeBlog\CodeMazeSourceCode\MVCSeries\Part4\WorkingWithStateManagement\obj\Debug\netcoreapp2.2\Razor\Views\Welcome\Get.g.cshtml.cs
+C:\Code\CodeMazeBlog\CodeMazeSourceCode\MVCSeries\Part4\WorkingWithStateManagement\obj\Debug\netcoreapp2.2\Razor\Views\Welcome\GetQueryString.g.cshtml.cs
+C:\Code\CodeMazeBlog\CodeMazeSourceCode\MVCSeries\Part4\WorkingWithStateManagement\obj\Debug\netcoreapp2.2\Razor\Views\Welcome\Index.g.cshtml.cs
+C:\Code\CodeMazeBlog\CodeMazeSourceCode\MVCSeries\Part4\WorkingWithStateManagement\obj\Debug\netcoreapp2.2\Razor\Views\Welcome\SetHiddenFieldValue.g.cshtml.cs
 C:\Code\CodeMazeBlog\CodeMazeSourceCode\MVCSeries\Part4\WorkingWithStateManagement\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
 C:\Code\CodeMazeBlog\CodeMazeSourceCode\MVCSeries\Part4\WorkingWithStateManagement\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
 C:\Code\CodeMazeBlog\CodeMazeSourceCode\MVCSeries\Part4\WorkingWithStateManagement\obj\Debug\netcoreapp2.2\WorkingWithStateManagement.RazorTargetAssemblyInfo.cache
@@ -28,12 +36,4 @@ C:\Code\CodeMazeBlog\CodeMazeSourceCode\MVCSeries\Part4\WorkingWithStateManageme
 C:\Code\CodeMazeBlog\CodeMazeSourceCode\MVCSeries\Part4\WorkingWithStateManagement\obj\Debug\netcoreapp2.2\WorkingWithStateManagement.dll
 C:\Code\CodeMazeBlog\CodeMazeSourceCode\MVCSeries\Part4\WorkingWithStateManagement\obj\Debug\netcoreapp2.2\WorkingWithStateManagement.pdb
 C:\Code\CodeMazeBlog\CodeMazeSourceCode\MVCSeries\Part4\WorkingWithStateManagement\obj\Debug\netcoreapp2.2\WorkingWithStateManagement.csproj.CopyComplete
-C:\Code\CodeMazeBlog\CodeMazeSourceCode\MVCSeries\Part4\WorkingWithStateManagement\obj\Debug\netcoreapp2.2\Razor\Views\Welcome\Get.g.cshtml.cs
-C:\Code\CodeMazeBlog\CodeMazeSourceCode\MVCSeries\Part4\WorkingWithStateManagement\obj\Debug\netcoreapp2.2\Razor\Views\Welcome\Index.g.cshtml.cs
-C:\Code\CodeMazeBlog\CodeMazeSourceCode\MVCSeries\Part4\WorkingWithStateManagement\obj\Debug\netcoreapp2.2\Razor\Views\Welcome\GetQueryString.g.cshtml.cs
-C:\Code\CodeMazeBlog\CodeMazeSourceCode\MVCSeries\Part4\WorkingWithStateManagement\obj\Debug\netcoreapp2.2\Razor\Views\Welcome\SetHiddenFieldValue.g.cshtml.cs
-C:\Code\CodeMazeBlog\CodeMazeSourceCode\MVCSeries\Part4\WorkingWithStateManagement\obj\Debug\netcoreapp2.2\Razor\Views\TempData\First.g.cshtml.cs
-C:\Code\CodeMazeBlog\CodeMazeSourceCode\MVCSeries\Part4\WorkingWithStateManagement\obj\Debug\netcoreapp2.2\Razor\Views\TempData\Second.g.cshtml.cs
-C:\Code\CodeMazeBlog\CodeMazeSourceCode\MVCSeries\Part4\WorkingWithStateManagement\obj\Debug\netcoreapp2.2\Razor\Views\TempData\Third.g.cshtml.cs
-C:\Code\CodeMazeBlog\CodeMazeSourceCode\MVCSeries\Part4\WorkingWithStateManagement\obj\Debug\netcoreapp2.2\Razor\Views\ViewData\Index.g.cshtml.cs
-C:\Code\CodeMazeBlog\CodeMazeSourceCode\MVCSeries\Part4\WorkingWithStateManagement\obj\Debug\netcoreapp2.2\Razor\Views\ViewBag\Index.g.cshtml.cs
+C:\Code\CodeMazeBlog\CodeMazeSourceCode\MVCSeries\Part4\WorkingWithStateManagement\obj\Debug\netcoreapp2.2\WorkingWithStateManagement.csprojAssemblyReference.cache

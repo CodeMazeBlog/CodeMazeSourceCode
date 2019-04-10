@@ -5,7 +5,6 @@ C:\Code\CodeMazeBlog\CodeMazeSourceCode\MVCSeries\Part3\WorkingWithViews\bin\Deb
 C:\Code\CodeMazeBlog\CodeMazeSourceCode\MVCSeries\Part3\WorkingWithViews\bin\Debug\netcoreapp2.2\BookStoreWithViews.pdb
 C:\Code\CodeMazeBlog\CodeMazeSourceCode\MVCSeries\Part3\WorkingWithViews\bin\Debug\netcoreapp2.2\BookStoreWithViews.Views.dll
 C:\Code\CodeMazeBlog\CodeMazeSourceCode\MVCSeries\Part3\WorkingWithViews\bin\Debug\netcoreapp2.2\BookStoreWithViews.Views.pdb
-C:\Code\CodeMazeBlog\CodeMazeSourceCode\MVCSeries\Part3\WorkingWithViews\obj\Debug\netcoreapp2.2\BookStoreWithViews.csprojAssemblyReference.cache
 C:\Code\CodeMazeBlog\CodeMazeSourceCode\MVCSeries\Part3\WorkingWithViews\obj\Debug\netcoreapp2.2\BookStoreWithViews.csproj.CoreCompileInputs.cache
 C:\Code\CodeMazeBlog\CodeMazeSourceCode\MVCSeries\Part3\WorkingWithViews\obj\Debug\netcoreapp2.2\BookStoreWithViews.RazorAssemblyInfo.cache
 C:\Code\CodeMazeBlog\CodeMazeSourceCode\MVCSeries\Part3\WorkingWithViews\obj\Debug\netcoreapp2.2\BookStoreWithViews.RazorAssemblyInfo.cs
@@ -16,10 +15,12 @@ C:\Code\CodeMazeBlog\CodeMazeSourceCode\MVCSeries\Part3\WorkingWithViews\obj\Deb
 C:\Code\CodeMazeBlog\CodeMazeSourceCode\MVCSeries\Part3\WorkingWithViews\obj\Debug\netcoreapp2.2\BookStoreWithViews.RazorCoreGenerate.cache
 C:\Code\CodeMazeBlog\CodeMazeSourceCode\MVCSeries\Part3\WorkingWithViews\obj\Debug\netcoreapp2.2\Razor\Views\Books\Create.g.cshtml.cs
 C:\Code\CodeMazeBlog\CodeMazeSourceCode\MVCSeries\Part3\WorkingWithViews\obj\Debug\netcoreapp2.2\Razor\Views\Books\Details.g.cshtml.cs
+C:\Code\CodeMazeBlog\CodeMazeSourceCode\MVCSeries\Part3\WorkingWithViews\obj\Debug\netcoreapp2.2\Razor\Views\Books\Edit.g.cshtml.cs
 C:\Code\CodeMazeBlog\CodeMazeSourceCode\MVCSeries\Part3\WorkingWithViews\obj\Debug\netcoreapp2.2\Razor\Views\Books\Index.g.cshtml.cs
 C:\Code\CodeMazeBlog\CodeMazeSourceCode\MVCSeries\Part3\WorkingWithViews\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
 C:\Code\CodeMazeBlog\CodeMazeSourceCode\MVCSeries\Part3\WorkingWithViews\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
 C:\Code\CodeMazeBlog\CodeMazeSourceCode\MVCSeries\Part3\WorkingWithViews\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Code\CodeMazeBlog\CodeMazeSourceCode\MVCSeries\Part3\WorkingWithViews\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Authors.g.cshtml.cs
 C:\Code\CodeMazeBlog\CodeMazeSourceCode\MVCSeries\Part3\WorkingWithViews\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
 C:\Code\CodeMazeBlog\CodeMazeSourceCode\MVCSeries\Part3\WorkingWithViews\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
 C:\Code\CodeMazeBlog\CodeMazeSourceCode\MVCSeries\Part3\WorkingWithViews\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
@@ -31,5 +32,4 @@ C:\Code\CodeMazeBlog\CodeMazeSourceCode\MVCSeries\Part3\WorkingWithViews\obj\Deb
 C:\Code\CodeMazeBlog\CodeMazeSourceCode\MVCSeries\Part3\WorkingWithViews\obj\Debug\netcoreapp2.2\BookStoreWithViews.dll
 C:\Code\CodeMazeBlog\CodeMazeSourceCode\MVCSeries\Part3\WorkingWithViews\obj\Debug\netcoreapp2.2\BookStoreWithViews.pdb
 C:\Code\CodeMazeBlog\CodeMazeSourceCode\MVCSeries\Part3\WorkingWithViews\obj\Debug\netcoreapp2.2\BookStoreWithViews.csproj.CopyComplete
-C:\Code\CodeMazeBlog\CodeMazeSourceCode\MVCSeries\Part3\WorkingWithViews\obj\Debug\netcoreapp2.2\Razor\Views\Books\Edit.g.cshtml.cs
-C:\Code\CodeMazeBlog\CodeMazeSourceCode\MVCSeries\Part3\WorkingWithViews\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Authors.g.cshtml.cs
+C:\Code\CodeMazeBlog\CodeMazeSourceCode\MVCSeries\Part3\WorkingWithViews\obj\Debug\netcoreapp2.2\BookStoreWithViews.csprojAssemblyReference.cache

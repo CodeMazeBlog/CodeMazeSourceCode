@@ -38,7 +38,6 @@ C:\Code\CodeMazeBlog\CodeMazeSourceCode\MVCSeries\Part1\bin\Debug\netcoreapp2.2\
 C:\Code\CodeMazeBlog\CodeMazeSourceCode\MVCSeries\Part1\bin\Debug\netcoreapp2.2\BookStore.pdb
 C:\Code\CodeMazeBlog\CodeMazeSourceCode\MVCSeries\Part1\bin\Debug\netcoreapp2.2\BookStore.Views.dll
 C:\Code\CodeMazeBlog\CodeMazeSourceCode\MVCSeries\Part1\bin\Debug\netcoreapp2.2\BookStore.Views.pdb
-C:\Code\CodeMazeBlog\CodeMazeSourceCode\MVCSeries\Part1\obj\Debug\netcoreapp2.2\BookStore.csprojAssemblyReference.cache
 C:\Code\CodeMazeBlog\CodeMazeSourceCode\MVCSeries\Part1\obj\Debug\netcoreapp2.2\BookStore.csproj.CoreCompileInputs.cache
 C:\Code\CodeMazeBlog\CodeMazeSourceCode\MVCSeries\Part1\obj\Debug\netcoreapp2.2\BookStore.RazorAssemblyInfo.cache
 C:\Code\CodeMazeBlog\CodeMazeSourceCode\MVCSeries\Part1\obj\Debug\netcoreapp2.2\BookStore.RazorAssemblyInfo.cs
@@ -64,3 +63,4 @@ C:\Code\CodeMazeBlog\CodeMazeSourceCode\MVCSeries\Part1\obj\Debug\netcoreapp2.2\
 C:\Code\CodeMazeBlog\CodeMazeSourceCode\MVCSeries\Part1\obj\Debug\netcoreapp2.2\BookStore.dll
 C:\Code\CodeMazeBlog\CodeMazeSourceCode\MVCSeries\Part1\obj\Debug\netcoreapp2.2\BookStore.pdb
 C:\Code\CodeMazeBlog\CodeMazeSourceCode\MVCSeries\Part1\obj\Debug\netcoreapp2.2\BookStore.csproj.CopyComplete
+C:\Code\CodeMazeBlog\CodeMazeSourceCode\MVCSeries\Part1\obj\Debug\netcoreapp2.2\BookStore.csprojAssemblyReference.cache
