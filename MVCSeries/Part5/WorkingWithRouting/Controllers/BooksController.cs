@@ -3,7 +3,8 @@
 namespace WorkingWithRouting.Controllers
 {
     public class BooksController : Controller
-    {     
+    {
+        [Route("")]
         [Route("Home")]
         [Route("Home/Index")]
         public IActionResult Index()
