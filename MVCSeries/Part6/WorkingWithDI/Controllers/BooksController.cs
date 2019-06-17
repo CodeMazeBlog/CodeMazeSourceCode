@@ -2,11 +2,11 @@
 
 namespace WorkingWithDI.Controllers
 {
-    public class BooksController : Controller
+public class BooksController : Controller
+{
+    public IActionResult Create()
     {
-        public IActionResult Create()
-        {
-            return View();
-        }
+        return View();
     }
+}
 }

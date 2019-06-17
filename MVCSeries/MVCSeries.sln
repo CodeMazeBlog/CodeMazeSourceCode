@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.168
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.352
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BookStore", "Part1\BookStore.csproj", "{45D9459D-24B4-4B40-AA19-47670DF3D7AE}"
 EndProject
@@ -17,7 +17,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WorkingWithFileUpload", "Pa
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WorkingWithDI", "Part6\WorkingWithDI\WorkingWithDI.csproj", "{6E355D45-1F3E-46A4-9F30-71DB5F48FE29}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithDITest", "Part6\WorkingWithDITest\WorkingWithDITest\WorkingWithDITest.csproj", "{AEDDA954-E0C5-42EC-B311-AD788E7DC4BE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WorkingWithDITest", "Part6\WorkingWithDITest\WorkingWithDITest\WorkingWithDITest.csproj", "{AEDDA954-E0C5-42EC-B311-AD788E7DC4BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithFilters", "Part7\WorkingWithFilters\WorkingWithFilters.csproj", "{69FA0F26-9A10-4DB5-B258-67C03CCB7DB0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{AEDDA954-E0C5-42EC-B311-AD788E7DC4BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AEDDA954-E0C5-42EC-B311-AD788E7DC4BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AEDDA954-E0C5-42EC-B311-AD788E7DC4BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69FA0F26-9A10-4DB5-B258-67C03CCB7DB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69FA0F26-9A10-4DB5-B258-67C03CCB7DB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69FA0F26-9A10-4DB5-B258-67C03CCB7DB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69FA0F26-9A10-4DB5-B258-67C03CCB7DB0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

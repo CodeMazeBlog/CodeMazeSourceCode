@@ -2,17 +2,17 @@
 
 namespace WorkingWithDI.Models.Services
 {
-    public class BooksLookupService
+public class BooksLookupService
+{
+    public List<string> GetGenres()
     {
-        public List<string> GetGenres()
+        return new List<string>()
         {
-            return new List<string>()
-            {
-                "Fiction",
-                "Thriller",
-                "Comedy",
-                "Autobiography"
-            };
-        }
+            "Fiction",
+            "Thriller",
+            "Comedy",
+            "Autobiography"
+        };
     }
+}
 }

@@ -14,8 +14,8 @@ namespace WorkingWithDI.Models.DataManager
         IEnumerable<Employee> IDataRepository<Employee>.GetAll()
         {
             return new List<Employee>() {
-                new Employee(){ }
-            };
+            new Employee(){ }
+        };
         }
     }
 }
