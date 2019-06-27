@@ -32,3 +32,5 @@ C:\Code\CodeMazeBlog\CodeMazeSourceCode\MVCSeries\Part7\WorkingWithFilters\obj\D
 C:\Code\CodeMazeBlog\CodeMazeSourceCode\MVCSeries\Part7\WorkingWithFilters\obj\Debug\netcoreapp2.2\Razor\Views\Home\Edit.g.cshtml.cs
 C:\Code\CodeMazeBlog\CodeMazeSourceCode\MVCSeries\Part7\WorkingWithFilters\obj\Debug\netcoreapp2.2\Razor\Views\Shared\CustomError.g.cshtml.cs
 C:\Code\CodeMazeBlog\CodeMazeSourceCode\MVCSeries\Part7\WorkingWithFilters\obj\Debug\netcoreapp2.2\Razor\Views\Home\TestResultFilter.g.cshtml.cs
+C:\Code\CodeMazeBlog\CodeMazeSourceCode\MVCSeries\Part7\WorkingWithFilters\obj\Debug\netcoreapp2.2\Razor\Views\Books\Index.g.cshtml.cs
+C:\Code\CodeMazeBlog\CodeMazeSourceCode\MVCSeries\Part7\WorkingWithFilters\obj\Debug\netcoreapp2.2\Razor\Views\Books\create.g.cshtml.cs
