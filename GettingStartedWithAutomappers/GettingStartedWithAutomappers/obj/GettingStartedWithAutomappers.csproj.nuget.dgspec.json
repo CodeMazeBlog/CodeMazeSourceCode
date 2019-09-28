@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\muhammed.p\\source\\repos\\GettingStartedWithAutomappers\\GettingStartedWithAutomappers\\GettingStartedWithAutomappers.csproj": {}
+    "C:\\Code\\CodeMazeBlog\\CodeMazeSourceCode\\GettingStartedWithAutomappers\\GettingStartedWithAutomappers\\GettingStartedWithAutomappers.csproj": {}
   },
   "projects": {
-    "C:\\Users\\muhammed.p\\source\\repos\\GettingStartedWithAutomappers\\GettingStartedWithAutomappers\\GettingStartedWithAutomappers.csproj": {
+    "C:\\Code\\CodeMazeBlog\\CodeMazeSourceCode\\GettingStartedWithAutomappers\\GettingStartedWithAutomappers\\GettingStartedWithAutomappers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\muhammed.p\\source\\repos\\GettingStartedWithAutomappers\\GettingStartedWithAutomappers\\GettingStartedWithAutomappers.csproj",
+        "projectUniqueName": "C:\\Code\\CodeMazeBlog\\CodeMazeSourceCode\\GettingStartedWithAutomappers\\GettingStartedWithAutomappers\\GettingStartedWithAutomappers.csproj",
         "projectName": "GettingStartedWithAutomappers",
-        "projectPath": "C:\\Users\\muhammed.p\\source\\repos\\GettingStartedWithAutomappers\\GettingStartedWithAutomappers\\GettingStartedWithAutomappers.csproj",
+        "projectPath": "C:\\Code\\CodeMazeBlog\\CodeMazeSourceCode\\GettingStartedWithAutomappers\\GettingStartedWithAutomappers\\GettingStartedWithAutomappers.csproj",
         "packagesPath": "C:\\Users\\muhammed.p\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\muhammed.p\\source\\repos\\GettingStartedWithAutomappers\\GettingStartedWithAutomappers\\obj\\",
+        "outputPath": "C:\\Code\\CodeMazeBlog\\CodeMazeSourceCode\\GettingStartedWithAutomappers\\GettingStartedWithAutomappers\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

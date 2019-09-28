@@ -9,7 +9,6 @@ namespace GettingStartedWithAutomappers.MappingConfigurations
         public UserProfile()
         {
             CreateMap<User, UserViewModel>();
-        }       
-
+        }
     }
 }

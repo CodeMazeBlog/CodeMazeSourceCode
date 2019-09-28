@@ -34,11 +34,7 @@ namespace GettingStartedWithAutomappers.Controllers
                 Id = 1,
                 FirstName = "John",
                 LastName = "Smith",
-                Email = "John.Smith@gmail.com",
-                //Address = new Address()
-                //{
-                //    Country = "US"
-                //}
+                Email = "John.Smith@gmail.com"
             };
         }
     }

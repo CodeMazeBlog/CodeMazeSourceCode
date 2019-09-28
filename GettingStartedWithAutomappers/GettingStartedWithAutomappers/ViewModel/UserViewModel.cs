@@ -1,6 +1,4 @@
-﻿using System.ComponentModel.DataAnnotations;
-
-namespace GettingStartedWithAutomappers.ViewModel
+﻿namespace GettingStartedWithAutomappers.ViewModel
 {
     public class UserViewModel
     {
@@ -9,6 +7,5 @@ namespace GettingStartedWithAutomappers.ViewModel
         public string LName { get; set; }
 
         public string Email { get; set; }
-
     }
 }
