@@ -1,6 +1,4 @@
-﻿using System.ComponentModel.DataAnnotations;
-
-namespace OWASPTop10.Models
+﻿namespace OWASPTop10.Models
 {
     public class Login
     {
@@ -12,13 +10,5 @@ namespace OWASPTop10.Models
         public string Password { get; set; }
 
         public string Message { get; set; }
-    }
-
-    public sealed class ShouldNotContainSingleQuotesValidation : ValidationAttribute
-    {
-        public override bool IsValid(object value)
-        {
-            return !value.ToString().Contains("'");
-        }
     }
 }
