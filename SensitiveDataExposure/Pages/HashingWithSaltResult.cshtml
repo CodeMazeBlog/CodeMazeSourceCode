@@ -1,0 +1,29 @@
+﻿@page
+@model OWASPTop10.Pages.HashingWithSaltResultModel
+@{
+    ViewData["Title"] = "HashingWithSaltResult";
+}
+
+<div class="row">
+    <div class="col-md-4">
+        <h4>Hashing With Salt Result</h4>
+        <hr />
+        <div class="form-group">
+            <label asp-for="UserSecret.SecretValue" class="font-weight-bold"></label>
+            <input asp-for="UserSecret.SecretValue" readonly="readonly" class="form-control" />
+        </div>
+        <div class="form-group">
+            <label asp-for="UserSecret.Salt" class="font-weight-bold"></label><br />
+            <span class="form-control-sm">
+                @Model.UserSecret.Salt
+            </span>
+        </div>
+        <div class="form-group">
+            <label asp-for="UserSecret.HashedKey" class="font-weight-bold"></label><br />
+            <span class="form-control-sm">
+                @Model.UserSecret.HashedKey
+            </span>
+        </div>
+    </div>
+</div>
+
