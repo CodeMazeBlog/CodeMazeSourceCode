@@ -1,0 +1,23 @@
+﻿@page
+@model OWASPTop10.Pages.HashingWithSaltModel
+@{
+    ViewData["Title"] = "HashingWithSalt";
+}
+
+<form method="post">
+
+    <div class="row">
+        <div class="col-md-4">
+            <h4>Test Hashing With Salt</h4>
+            <hr />
+            <div class="form-group">
+                <label asp-for="UserSecret.SecretValue"></label>
+                <input asp-for="UserSecret.SecretValue" class="form-control" />
+            </div>
+            <div class="form-group">
+                <button type="submit" class="btn btn-primary">Calculate Hash</button>
+            </div>
+        </div>
+    </div>
+
+</form>
